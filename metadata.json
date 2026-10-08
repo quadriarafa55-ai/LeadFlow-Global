@@ -1,0 +1,7 @@
+{
+  "name": "LeadFlow Global",
+  "description": "Global B2B Lead-Generation and Automated Outreach SaaS platform with multi-channel anti-ban capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
